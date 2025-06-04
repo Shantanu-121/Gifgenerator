@@ -18,18 +18,6 @@ API Integration: Giphy API for fetching GIFs
 
 Hosting: GitHub Pages
 
-# 📂 Project Structure
-
-Gifgenerator/
-├── public/
-├── src/
-│   ├── components/
-│   ├── App.js
-│   └── index.js
-├── .gitignore
-├── package.json
-└── README.md
-
 # 💻 Getting Started
 To run this project locally:
 
@@ -54,7 +42,7 @@ npm start
 The application will open in your default browser at [http://localhost:3000/]
 
 # 📦 Deployment
-This project is deployed using GitHub Pages. To deploy your own version:
+This project is deployed using GitHub Pages.
 
 # 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
