@@ -5,18 +5,18 @@ A web application that allows users to generate and view random GIFs based on se
 Access the live application here: [https://shantanu-121.github.io/Gifgenerator/]
 
 # 🚀 Features
-Random GIF Generation: Fetches and displays random GIFs from various categories.
+* Random GIF Generation: Fetches and displays random GIFs from various categories.
 
-Category Selection: Users can search for a category to generate specific types of GIFs.
+* Category Selection: Users can search for a category to generate specific types of GIFs.
 
-Responsive Design: Ensures optimal viewing experience across different devices.
+* Responsive Design: Ensures optimal viewing experience across different devices.
 
 # 🛠️ Technologies Used
-Frontend: React.js
+* Frontend: React.js
 
-API Integration: Giphy API for fetching GIFs
+* API Integration: Giphy API for fetching GIFs
 
-Hosting: GitHub Pages
+* Hosting: GitHub Pages
 
 # 💻 Getting Started
 To run this project locally:
